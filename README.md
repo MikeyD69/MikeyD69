@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Data Science and Engineering
 - 🌱 I’m currently learning ... Data Science Certificate
 - 💞️ I’m looking to collaborate on ... lab work 
-- 📫 How to reach me best...mwaggonerhome@gmail.com
+- 📫 How to reach me best ... mwaggonerhome@gmail.com
 - 😄 Pronouns: ... Geezer
 - ⚡ Fun fact: ... Retired (and tired) old DBA satisfying my data curiousity
 
